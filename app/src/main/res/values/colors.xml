@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <!-- Material Design Base Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary Colors -->
+    <color name="primary">#2979FF</color>
+    <color name="primary_variant">#76FF03</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#121212</color>
+    <color name="background_variant">#333333</color>
+    
+    <!-- Surface Colors -->
+    <color name="surface">#333333</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#BDBDBD</color>
+    <color name="text_disabled">#7A7A7A</color>
+    
+    <!-- Status Colors -->
+    <color name="error">#FF5252</color>
+    <color name="on_error">#FFFFFF</color>
+    
+    <!-- Outline/Border -->
+    <color name="outline">#424242</color>
+    
+    <!-- Legacy Colors (for backward compatibility) -->
+    <color name="fitness_green">#76FF03</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="sign_in_text">#BDBDBD</color>
+    <color name="dark_overlay">#80000000</color>
+    <color name="gray_300">#BDBDBD</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#7A7A7A</color>
+    <color name="gray_600">#424242</color>
+    <color name="gray_700">#333333</color>
+    <color name="gray_800">#333333</color>
 </resources>
