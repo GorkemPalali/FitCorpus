@@ -1,0 +1,17 @@
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Infrastructure.deps.json
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Infrastructure.runtimeconfig.json
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Infrastructure.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Infrastructure.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Domain.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/bin/Debug/net9.0/FitCorpus.Domain.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.csproj.AssemblyReference.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.AssemblyInfoInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.AssemblyInfo.cs
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpu.CC8D654A.Up2Date
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/refint/FitCorpus.Infrastructure.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/FitCorpus.Infrastructure.genruntimeconfig.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Infrastructure/obj/Debug/net9.0/ref/FitCorpus.Infrastructure.dll

@@ -1,0 +1,11 @@
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/bin/Debug/net9.0/FitCorpus.Domain.deps.json
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/bin/Debug/net9.0/FitCorpus.Domain.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/bin/Debug/net9.0/FitCorpus.Domain.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.AssemblyInfoInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.AssemblyInfo.cs
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.csproj.CoreCompileInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/refint/FitCorpus.Domain.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/FitCorpus.Domain.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Domain/obj/Debug/net9.0/ref/FitCorpus.Domain.dll
