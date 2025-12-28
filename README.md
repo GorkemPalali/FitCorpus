@@ -17,3 +17,20 @@ Bu uygulama, fitness sektöründe **online koçluk ve takip süreçlerini dijita
   - PT paketlerini inceleme ve satın alma
   - Antrenman ve diyet programlarını takip etme
   - PT ile uygulama içi etkileşimli tablolar 
+
+## Screenshots
+
+<div align="center">
+
+### Athlete Home Screen
+<img src="docs/ss/athlete-homescreen.png" alt="Athlete Home Screen" width="300"/>
+
+### Athlete Workout Tracking
+<img src="docs/ss/athlete-workout-track.png" alt="Athlete Workout Tracking" width="300"/>
+
+### Marketplace (Athlete View)
+<img src="docs/ss/PT-marketplace.png" alt="PT Marketplace" width="300"/>
+
+<img src="docs/ss/PT-marketplace-II.png" alt="PT Marketplace II" width="300"/>
+
+</div>
