@@ -8,7 +8,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.example.fitcorpus.navigation.Screen
+import com.example.fitcorpus.ui.navigation.Screen
 
 sealed class AthleteBottomNavItem(
     val route: String,

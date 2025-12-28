@@ -15,9 +15,9 @@ import androidx.navigation.compose.rememberNavController
 import com.example.fitcorpus.core.auth.TokenManager
 import com.example.fitcorpus.ui.designsystem.theme.FitCorpusTheme
 import com.example.fitcorpus.domain.model.UserRole
-import com.example.fitcorpus.navigation.AthleteNavGraph
-import com.example.fitcorpus.navigation.AuthNavGraph
-import com.example.fitcorpus.navigation.TrainerNavGraph
+import com.example.fitcorpus.ui.navigation.AthleteNavGraph
+import com.example.fitcorpus.ui.navigation.AuthNavGraph
+import com.example.fitcorpus.ui.navigation.TrainerNavGraph
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
