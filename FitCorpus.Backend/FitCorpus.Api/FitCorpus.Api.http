@@ -1,0 +1,6 @@
+@FitCorpus.Api_HostAddress = http://localhost:5268
+
+GET {{FitCorpus.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

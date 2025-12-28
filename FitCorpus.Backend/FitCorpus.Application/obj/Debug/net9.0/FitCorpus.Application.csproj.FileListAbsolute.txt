@@ -1,0 +1,17 @@
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.csproj.AssemblyReference.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.AssemblyInfoInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.AssemblyInfo.cs
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.csproj.CoreCompileInputs.cache
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Application.deps.json
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Application.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Application.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Domain.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Infrastructure.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Domain.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/bin/Debug/net9.0/FitCorpus.Infrastructure.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpu.86C911EB.Up2Date
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/refint/FitCorpus.Application.dll
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/FitCorpus.Application.pdb
+/Users/gorkempalali/AndroidStudioProjects/FitCorpus.Backend/FitCorpus.Application/obj/Debug/net9.0/ref/FitCorpus.Application.dll
